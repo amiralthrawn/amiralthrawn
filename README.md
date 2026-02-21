@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Enzo - Trader Quantitatif
 
-<!--
-**amiralthrawn/amiralthrawn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## À propos
+Trader indépendant. Je documente mes recherches, mes résultats PropFirm et mes réflexions sur le trading systématique.
 
-Here are some ideas to get you started:
+## 🎯 Ce que je fais
+- Micro Scalping Nasdaq 
+- Challenges PropFirm en allocation multicompte
+- Développement de stratégies basées sur l'analyse de données
+- Coaching traders pour structurer leur approche
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Mes projets
+- **[trading-research](lien-vers-repo)** : Recherches et analyses sur mes stratégies
+- **[propfirm-results](lien-vers-repo)** : Documentation de mes résultats et apprentissages
+
+## 📫 Me contacter
+- Twitter/X : [@3hrawn]
+- Telegram : [https://t.me/+cHa_7jWevWNkNTdk]
+
+---
+💡 *"Le trading quantitatif ce n'est pas prédire le marché, c'est gérer le risque avec discipline."*
