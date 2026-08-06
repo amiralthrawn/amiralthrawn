@@ -1,4 +1,4 @@
-# 👋 Enzo — Data Analyst Finance | Python | Quantitative Finance | Hedging
+# 👋 Enzo — Data Analyst | Quantitative Finance | Hedging
 
 ## À propos
 
